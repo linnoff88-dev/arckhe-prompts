@@ -1,0 +1,62 @@
+﻿site_name: Engenharia de Prompts 2.0
+site_description: Curso prático e visual de Engenharia de Prompts inspirado no acervo INEMA.Prompts
+site_url: https://inematds.github.io/prompts
+repo_url: https://github.com/inematds/prompts
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: purple
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - toc.integrate
+  logo: recursos/banner-16x9.svg
+  favicon: recursos/favicon.svg
+edit_uri: edit/main/docs/
+nav:
+  - Início: index.md
+  - Educação:
+      - Visão Geral: educacao/index.md
+      - Trilhas:
+          - Fundamentos: educacao/trilhas/fundamentos.md
+          - Técnicas: educacao/trilhas/tecnicas.md
+          - Avançado (Masterclass): educacao/trilhas/avancado-masterclass.md
+  - Módulos:
+      - Fundamentos: modulo1_fundamentos/README.md
+      - Padrões e Melhores Práticas: modulo2_padroes/README.md
+      - Casos de Uso: modulo3_casos_uso/README.md
+      - Assistentes, Memória e RAG: modulo4_assistentes_memoria/README.md
+      - Automação e Ferramentas: modulo5_automacao_ferramentas/README.md
+      - Projetos Finais: modulo6_projetos_finais/README.md
+  - Guia:
+      - Visão Geral: guia/visao-geral.md
+      - Como Usar: guia/como-usar.md
+      - Modelo de Curso: guia/modelo-curso.md
+      - Para Empresas: guia/empresa.md
+      - De Prompts a Agentes: guia/agentes-ia.md
+  - Templates:
+      - Modelos de Prompt: templates/modelos-prompts.md
+      - Plano de Curso: templates/plano-curso.md
+      - Roteiro de Workshop: templates/roteiro-workshop.md
+      - Template de Exercício: templates/template-exercicio.md
+  - Exercícios: exercicios/index.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/inematds/prompts
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+extra_css:
+  - styles/theme.css
+docs_dir: docs
