@@ -1,7 +1,7 @@
 ﻿site_name: Engenharia de Prompts 2.0
-site_description: Curso prático e visual de Engenharia de Prompts inspirado no acervo INEMA.Prompts
-site_url: https://inematds.github.io/prompts
-repo_url: https://github.com/inematds/prompts
+site_description: Curso prático e visual de Engenharia de Prompts inspirado no acervo ARCKHÉ.Prompts
+site_url: https://linnoff88-dev.github.io/arckhe-prompts
+repo_url: https://github.com/linnoff88-dev/prompts
 theme:
   name: material
   language: pt
@@ -49,7 +49,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/inematds/prompts
+      link: https://github.com/linnoff88-dev/prompts
 markdown_extensions:
   - admonition
   - footnotes

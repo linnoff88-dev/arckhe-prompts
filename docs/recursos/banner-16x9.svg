@@ -23,7 +23,7 @@
   <text x="80" y="320" class="title">Engenharia de Prompts 2.0</text>
   <text x="80" y="370" class="subtitle">Curso prático e visual — estilo tecnológico agradável</text>
   <rect x="80" y="410" rx="12" ry="12" width="380" height="44" fill="url(#a)"/>
-  <text x="100" y="440" class="pill">Baseado no acervo INEMA.Prompts</text>
+  <text x="100" y="440" class="pill">Baseado no acervo ARCKHÉ.Prompts</text>
   <rect x="80" y="468" rx="12" ry="12" width="280" height="44" fill="#0ea5e9" opacity="0.9"/>
   <text x="100" y="498" class="pill">Hospedado em GitHub Pages</text>
 </svg>

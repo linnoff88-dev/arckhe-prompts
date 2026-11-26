@@ -10,7 +10,7 @@
   
 </section>
 
-> Curso prático e visual, com base no acervo INEMA.Prompts. Hospedado em GitHub Pages. Atividades via GitHub Discussions.
+> Curso prático e visual, com base no acervo ARCKHÉ.Prompts. Hospedado em GitHub Pages. Atividades via GitHub Discussions.
 
 [Começar agora](modulo1_fundamentos/README.md){ .md-button .md-button--primary }
 [Ver Trilhas de Educaçêo](educacao/index.md){ .md-button }
@@ -47,12 +47,12 @@
 3. Atividades e dúvidas: use o **GitHub Discussions** do repositório.
 
 ## Comunidade
-- Dúvidas e exercícios: https://github.com/inematds/Prompts/discussions
-- Issues e sugestões: https://github.com/inematds/Prompts/issues
+- Dúvidas e exercícios: https://github.com/linnoff88-dev/Prompts/discussions
+- Issues e sugestões: https://github.com/linnoff88-dev/Prompts/issues
 
 ---
 
 ### Créditos
-- Base de conteúdo: `Docs/2494987106.zip` (dump do grupo INEMA.Prompts) — mantido como referência histórica.
+- Base de conteúdo: `Docs/2494987106.zip` (dump do grupo ARCKHÉ.Prompts) — mantido como referência histórica.
 - Tema: MkDocs Material.
 

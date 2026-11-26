@@ -18,7 +18,7 @@ title: Trilha — Fundamentos
 - Critérios de qualidade: como avaliar (ex.: checklist rápida)
 
 ## Roteiro sugerido
-- Módulo 1 — Fundamentos → [abrir](https://inematds.github.io/prompts/modulo1_fundamentos/)
+- Módulo 1 — Fundamentos → [abrir](https://linnoff88-dev.github.io/arckhe-/modulo1_fundamentos/)
 - Leituras do acervo (exemplos práticos):
   - Introduçêo e visêo geral: [2191](../../data/2494987106/2191/content.txt)
   - Estrutura de um bom prompt: [4807](../../data/2494987106/4807/content.txt)
