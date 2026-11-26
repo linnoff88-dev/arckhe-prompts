@@ -3,6 +3,6 @@
 ## Contexto
 ## Tarefa
 ## Entrada/saída esperada
-## Critérios de avaliação
+## Critérios de avaliaçêo
 ## Entrega (formato)
 

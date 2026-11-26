@@ -6,7 +6,7 @@
 </div>
 
 
-Base aberta para criar cursos e treinamentos de Engenharia de Prompts, publicar documentação e servir como referência para formações online. Construído em Markdown com MkDocs Material e publicado via GitHub Pages.
+Base aberta para criar cursos e treinamentos de Engenharia de Prompts, publicar documentaçêo e servir como referência para formações online. Construído em Markdown com MkDocs Material e publicado via GitHub Pages.
 
 ## Objetivo
 - Disponibilizar uma base clara e prática sobre Engenharia de Prompts — fundamento para projetar e usar agentes de IA.
@@ -20,9 +20,9 @@ Base aberta para criar cursos e treinamentos de Engenharia de Prompts, publicar 
 - Para empresas: veja `docs/guia/empresa.md` e os templates em `docs/templates/`.
 
 ## Estrutura (resumo)
-- `mkdocs.yml` — configuração do site (tema, navegação, plugins)
+- `mkdocs.yml` — configuraçêo do site (tema, navegaçêo, plugins)
 - `docs/index.md` — landing do curso
-- `docs/educacao/` — página e trilhas de educação
+- `docs/educacao/` — página e trilhas de educaçêo
   - `trilhas/fundamentos.md`, `trilhas/tecnicas.md`, `trilhas/avancado-masterclass.md`
 - `docs/modulo*/README.md` — conteúdo por módulo
 - `docs/guia/` — como usar, adaptar e publicar
@@ -31,7 +31,7 @@ Base aberta para criar cursos e treinamentos de Engenharia de Prompts, publicar 
 - `docs/data/` — acervo histórico (para leituras e exemplos)
 - `.github/workflows/gh-pages.yml` — deploy automático para Pages
 
-## Publicação (GitHub Pages)
+## Publicaçêo (GitHub Pages)
 1. Ajuste `site_url` e `repo_url` em `mkdocs.yml` (minúsculas recomendado).
 2. Faça push na branch `main`. O workflow publica a pasta `site/` automaticamente.
 3. Em Settings → Pages, escolha “GitHub Actions” como método de deploy.
@@ -47,12 +47,12 @@ Base aberta para criar cursos e treinamentos de Engenharia de Prompts, publicar 
 - Use `docs/templates/template-exercicio.md` para padronizar entregas.
 - Publique no GitHub Pages e, opcionalmente, integre vídeos (YouTube/Vimeo).
 
-## Contribuição
-- Issues e sugestões são bem-vindas.
+## Contribuiçêo
+- Issues e sugestões sêo bem-vindas.
 - Faça PRs com melhorias em módulos, trilhas, guias e templates.
 
 ## Licença
-- Defina a licença de sua preferência (não incluída por padrão) e adicione um arquivo `LICENSE`.
+- Defina a licença de sua preferência (nêo incluída por padrêo) e adicione um arquivo `LICENSE`.
 
 ---
 

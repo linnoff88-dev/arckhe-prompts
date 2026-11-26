@@ -21,8 +21,8 @@ theme:
 edit_uri: edit/main/docs/
 nav:
   - Início: index.md
-  - Educação:
-      - Visão Geral: educacao/index.md
+  - Educaçêo:
+      - Visêo Geral: educacao/index.md
       - Trilhas:
           - Fundamentos: educacao/trilhas/fundamentos.md
           - Técnicas: educacao/trilhas/tecnicas.md
@@ -32,10 +32,10 @@ nav:
       - Padrões e Melhores Práticas: modulo2_padroes/README.md
       - Casos de Uso: modulo3_casos_uso/README.md
       - Assistentes, Memória e RAG: modulo4_assistentes_memoria/README.md
-      - Automação e Ferramentas: modulo5_automacao_ferramentas/README.md
+      - Automaçêo e Ferramentas: modulo5_automacao_ferramentas/README.md
       - Projetos Finais: modulo6_projetos_finais/README.md
   - Guia:
-      - Visão Geral: guia/visao-geral.md
+      - Visêo Geral: guia/visao-geral.md
       - Como Usar: guia/como-usar.md
       - Modelo de Curso: guia/modelo-curso.md
       - Para Empresas: guia/empresa.md

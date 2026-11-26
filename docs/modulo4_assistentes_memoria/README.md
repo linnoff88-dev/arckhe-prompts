@@ -5,22 +5,22 @@
 ## O que você vai aprender
 - Memória (Claude e outros): quando e como usar
 - Estrutura de assistente (persona, objetivos, guardrails)
-- Preparação de conhecimento para RAG (curadoria e chunking)
+- Preparaçêo de conhecimento para RAG (curadoria e chunking)
 
 ## Vídeo (5–10 min)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XXXXXXXXXXX" title="Assistentes e RAG" frameborder="0" allowfullscreen></iframe>
 
 ## Resumo prático
 - Defina persona, escopo e limites do assistente
-- Modele eliciação e recuperação (RAG) com exemplos
-- Teste o fluxo: saudação → qualificação → resposta → CTA
+- Modele eliciaçêo e recuperaçêo (RAG) com exemplos
+- Teste o fluxo: saudaçêo → qualificaçêo → resposta → CTA
 
 ## Exercício aplicado
-- Modele um assistente simples (funil de qualificação + FAQ) no seu contexto.
+- Modele um assistente simples (funil de qualificaçêo + FAQ) no seu contexto.
 - Compartilhe no Discussions (categoria "exercicios-modulo-4").
 
 ## Desafio extra
-- Crie um script de avaliação com 10 cenários e critérios.
+- Crie um script de avaliaçêo com 10 cenários e critérios.
 
 ## Leituras (acervo)
 - [Recurso Memória no Claude — 4867](../data/2494987106/4867/content.txt)

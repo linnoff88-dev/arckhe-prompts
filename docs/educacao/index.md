@@ -1,8 +1,8 @@
 ---
-title: Educação em Engenharia de Prompts
+title: Educaçêo em Engenharia de Prompts
 ---
 
-# Educação em Engenharia de Prompts
+# Educaçêo em Engenharia de Prompts
 
 > Uma trilha clara, prática e progressiva para dominar fundamentos, técnicas e tópicos avançados (masterclass), usando o acervo como material de apoio.
 
@@ -13,8 +13,8 @@ title: Educação em Engenharia de Prompts
 
 ## Trilhas de aprendizado
 - Fundamentos: conceitos essenciais, anatomia de prompt, clareza e testabilidade.
-- Técnicas: padrões, frameworks de prompting, few-shot, ferramentas e avaliação.
-- Avançado (Masterclass): agentes, memória, RAG, automação, projetos aplicados.
+- Técnicas: padrões, frameworks de prompting, few-shot, ferramentas e avaliaçêo.
+- Avançado (Masterclass): agentes, memória, RAG, automaçêo, projetos aplicados.
 
 ## Dicas
 - Priorize exemplos práticos e pequenos experimentos.

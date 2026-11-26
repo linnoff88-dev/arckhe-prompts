@@ -4,7 +4,7 @@
 
 ## O que você vai aprender
 - Conteúdo e design (ex.: YouTube Thumbnails)
-- Guias e lives: estrutura e produção
+- Guias e lives: estrutura e produçêo
 - Avaliar resultados e iterar com feedback
 
 ## Vídeo (5–10 min)

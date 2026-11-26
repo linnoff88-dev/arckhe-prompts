@@ -13,14 +13,14 @@ title: Trilha — Fundamentos
 
 ## Conteúdos essenciais
 - Anatomia: papel, objetivo, contexto, restrições, formato de saída, exemplos
-- Clareza e escopo: evitar ambiguidade, declarar o que não fazer
+- Clareza e escopo: evitar ambiguidade, declarar o que nêo fazer
 - Formatos: Markdown, JSON e campos obrigatórios/opcionais
 - Critérios de qualidade: como avaliar (ex.: checklist rápida)
 
 ## Roteiro sugerido
 - Módulo 1 — Fundamentos → [abrir](https://inematds.github.io/prompts/modulo1_fundamentos/)
 - Leituras do acervo (exemplos práticos):
-  - Introdução e visão geral: [2191](../../data/2494987106/2191/content.txt)
+  - Introduçêo e visêo geral: [2191](../../data/2494987106/2191/content.txt)
   - Estrutura de um bom prompt: [4807](../../data/2494987106/4807/content.txt)
   - Guia para iniciantes e avançado: [4819](../../data/2494987106/4819/content.txt)
 
@@ -31,7 +31,7 @@ title: Trilha — Fundamentos
 ## Checklist de qualidade (rápida)
 - Objetivo explícito e mensurável
 - Formato de saída definido (ex.: Markdown/JSON) e campos claros
-- Critérios de aceitação simples (ex.: “conter 3 tópicos, citar fonte”)
+- Critérios de aceitaçêo simples (ex.: “conter 3 tópicos, citar fonte”)
 - Teste em 1 caso fácil e 1 difícil; refine
 
 ## Critérios de domínio
@@ -43,7 +43,7 @@ title: Trilha — Fundamentos
 ## Prompt base (copiar e colar)
 
 ```
-Papel: Você é [função] que [objetivo].
+Papel: Você é [funçêo] que [objetivo].
 Tarefa: [o que fazer] para [quem] em [contexto].
 Requisitos: [bullet points claros]
 Formato de saída: [Markdown/JSON], campos: [x, y, z]
@@ -55,7 +55,7 @@ Exemplos (opcional): [1–2 mini exemplos]
 ```
 Papel: Instrutor de escrita técnica
 Tarefa: Resumir o texto abaixo em 3 bullets factuais.
-Requisitos: sem opinião, sem adjetivos vagos.
+Requisitos: sem opiniêo, sem adjetivos vagos.
 Formato: JSON { "bullets": ["...", "...", "..."] }
 Critérios: cada bullet ≤ 20 palavras, sem redundância.
 Texto: """<cole o texto>"""
@@ -72,7 +72,7 @@ Faça um resumo do documento.
 Papel: Analista de conteúdo
 Tarefa: Resumir o documento em 3 bullets factuais
 Formato: Markdown (lista)
-Critérios: 1 ideia por bullet, sem opinião, ≤ 18 palavras
+Critérios: 1 ideia por bullet, sem opiniêo, ≤ 18 palavras
 Texto: """<documento>"""
 ```
 
@@ -85,7 +85,7 @@ Me ajude com ideias de marketing.
 Papel: Estrategista de Marketing
 Tarefa: Gerar 5 ideias de posts LinkedIn sobre [tema] para [persona]
 Formato: Tabela | colunas: Título, Ângulo, CTA
-Critérios: tom profissional, sem jargão, cada CTA com verbo de ação
+Critérios: tom profissional, sem jargêo, cada CTA com verbo de açêo
 ```
 
 ## Anti‑padrões e correções
@@ -94,7 +94,7 @@ Critérios: tom profissional, sem jargão, cada CTA com verbo de ação
 - Tom inconsistente → explicitar “tom”, “público”, “nível de detalhe”.
 - Requisitos ambíguos → trocar “bom/claro” por limites/contagens.
 
-## Rubrica de autoavaliação (0–2 por item, meta ≥ 7/10)
+## Rubrica de autoavaliaçêo (0–2 por item, meta ≥ 7/10)
 - Clareza do objetivo (0–2)
 - Formato de saída e completude (0–2)
 - Critérios objetivos e verificáveis (0–2)
@@ -103,7 +103,7 @@ Critérios: tom profissional, sem jargão, cada CTA com verbo de ação
 
 ## Exercícios enriquecidos
 - Reescrita guiada: aplique o Prompt Base a 2 prompts reais e compare.
-- Validação de formato: peça saída em JSON e verifique campos/limites.
+- Validaçêo de formato: peça saída em JSON e verifique campos/limites.
 - Caso difícil: mesma tarefa com entrada ambígua; refine até estabilizar.
 
 > Dica: veja modelos prontos em Templates → Modelos de Prompt.

@@ -1,6 +1,6 @@
 # Acervo de Conteúdo
 
-> Versão leve: listagem e pesquisa baseadas no inventário publicado (sem mídias pesadas).
+> Versêo leve: listagem e pesquisa baseadas no inventário publicado (sem mídias pesadas).
 
 Se o inventário estiver presente, você verá os tópicos aqui. Caso contrário, publique o `docs/data/inventory.json`.
 
@@ -36,7 +36,7 @@ Se o inventário estiver presente, você verá os tópicos aqui. Caso contrário
     const res = await fetch('data/inventory.json');
     raw = await res.json();
   } catch (e) {
-    tbody.innerHTML = '<tr><td colspan="5">Inventário não encontrado. Publique docs/data/inventory.json.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="5">Inventário nêo encontrado. Publique docs/data/inventory.json.</td></tr>';
     return;
   }
   let items = raw.topics || [];

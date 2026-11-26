@@ -3,7 +3,7 @@
 > Objetivo: consolidar aprendizados em um projeto aplicado ao seu contexto.
 
 ## O que você vai entregar
-- 1 projeto com escopo claro, prompts versionados e avaliação de qualidade
+- 1 projeto com escopo claro, prompts versionados e avaliaçêo de qualidade
 - Evidências: entradas/saídas, critérios e iterações
 - Post público no Discussions com lições aprendidas
 
@@ -19,7 +19,7 @@
 
 ## Exemplos de projetos
 - "Mapa da Dor" para LLMs (diagnóstico e recomendações) — 4739
-- Funil de qualificação com CTA — 4668/4819
+- Funil de qualificaçêo com CTA — 4668/4819
 - Otimizador de prompts para um processo específico — 4756/4789
 
 ## Entrega

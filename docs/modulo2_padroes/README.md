@@ -3,8 +3,8 @@
 > Objetivo: padronizar prompts para consistência, qualidade e eficiência.
 
 ## O que você vai aprender
-- Prompt técnico padrão (templates reutilizáveis)
-- Otimização: eliciar, decompor, verificar e corrigir
+- Prompt técnico padrêo (templates reutilizáveis)
+- Otimizaçêo: eliciar, decompor, verificar e corrigir
 - Armadilhas comuns e como evitá-las
 
 ## Vídeo (5–10 min)
@@ -12,7 +12,7 @@
 
 ## Resumo prático
 - Template base: contexto → instruções → critérios de saída → validações
-- Checklist de revisão (clareza, controle de escopo, testabilidade)
+- Checklist de revisêo (clareza, controle de escopo, testabilidade)
 - Versione prompts e registre mudanças
 
 ## Exercício aplicado
@@ -20,9 +20,9 @@
 - Publique no Discussions (categoria "exercicios-modulo-2").
 
 ## Desafio extra
-- Crie um kit de prompts para um fluxo (ex.: briefing → rascunho → revisão).
+- Crie um kit de prompts para um fluxo (ex.: briefing → rascunho → revisêo).
 
 ## Leituras (acervo)
-- [Prompt Técnico Padrão — 4789](../data/2494987106/4789/content.txt)
+- [Prompt Técnico Padrêo — 4789](../data/2494987106/4789/content.txt)
 - [Otimizador de Prompts da OpenAI — 4756](../data/2494987106/4756/content.txt)
 

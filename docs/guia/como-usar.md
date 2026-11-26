@@ -2,7 +2,7 @@
 
 ## Usar como template
 1. Faça um fork deste repositório
-2. Ajuste `mkdocs.yml` (site_url, repo_url, navegação)
+2. Ajuste `mkdocs.yml` (site_url, repo_url, navegaçêo)
 3. Edite módulos e trilhas conforme seu curso
 
 ## Publicar no GitHub Pages

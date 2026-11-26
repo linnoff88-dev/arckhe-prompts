@@ -26,7 +26,7 @@ Insira o link do vídeo (YouTube/Vimeo):
 - Pegue um prompt do acervo e proponha melhorias com justificativa.
 
 ## Leituras (acervo)
-- [Visão Geral de Prompts — 2191](../data/2494987106/2191/content.txt)
+- [Visêo Geral de Prompts — 2191](../data/2494987106/2191/content.txt)
 - [Estrutura de um bom Prompt — 4807](../data/2494987106/4807/content.txt)
 - [Prompt Guide 4 Iniciantes e Avançado — 4819](../data/2494987106/4819/content.txt)
 

@@ -5,6 +5,6 @@
 ## Objetivos de aprendizagem
 ## Módulos (sumário)
 ## Metodologia e cronograma
-## Avaliação e critérios
+## Avaliaçêo e critérios
 ## Recursos (links, vídeos, acervo)
 

@@ -1,9 +1,9 @@
-# Guia — Visão Geral do Projeto
+# Guia — Visêo Geral do Projeto
 
 Este projeto serve como base para cursos, treinamentos corporativos e formações online em Engenharia de Prompts — fundamento para projetar e usar agentes de IA.
 
 ## Componentes principais
-- Trilhas (Educação): Fundamentos, Técnicas, Avançado (Masterclass)
+- Trilhas (Educaçêo): Fundamentos, Técnicas, Avançado (Masterclass)
 - Módulos (1–6): conteúdos curtos, exercitáveis e práticos
 - Acervo (docs/data): leituras e exemplos reais
 - Templates (docs/templates): planos de curso, workshops e exercícios
